@@ -8,4 +8,4 @@ El Banco EGP posee dos tipos de cuenta:
 
 Ambas cuentas bancarias y se pude depositar, retirar, calcula interés y enviar saldo actual. Una cuenta se crea con un nombre y un saldo inicial.
 
-//Hacer Correciones 08/26/2022
+//Hacer Correciones 26/08/2022
